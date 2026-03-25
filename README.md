@@ -7,5 +7,6 @@ File structure:
 4) Add README files - one for your whole branch identifying approaches you have taken (overview) and one each for seperate folders, outlining that specific approach
 5) Make folder-specific READMEs concise to review at a glance for others
 6) If you can identify the pros/cons/improvements to each folder approach
+7) If a specific folder is a successor to an old approach identify the inherited features/changes in the README
 
-7) If you have a seperate engine code for different purpose (other than trading bot) - create a new branch for it (eg. testing engine, etc.)
+8) If you have a seperate engine code for different purpose (other than trading bot) - create a new branch for it (eg. testing engine, etc.)
