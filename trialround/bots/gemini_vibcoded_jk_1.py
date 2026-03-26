@@ -24,7 +24,7 @@ class Trader:
             
             # Fetch current position to ensure we do not breach limits
             current_position = state.position.get(product, 0)
-            limit = self.POSITION_LIMITS.get(product, 20)
+            limit = self.POSITION_LIMITS.get(product, 0)
 
             # Ensure there is liquidity on both sides to calculate logic safely
             if len(order_depth.sell_orders) != 0 and len(order_depth.buy_orders) != 0:
