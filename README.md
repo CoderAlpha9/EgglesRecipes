@@ -12,7 +12,7 @@ File structure:
 8) If you have a seperate engine code for different purpose (other than trading bot) - create a new branch for it (eg. testing engine, etc.)
 
 ## Also P.S. - if you find insanely useful resources add it to this readme! (please)
-
+- MOST IMP, CODE FORMAT, PLS READ FULLY: https://imc-prosperity.notion.site/writing-an-algorithm-in-python
 - Prosp wiki: https://imc-prosperity.notion.site/prosperity-4-wiki
 - Their discord: https://discord.gg/SABeB8uKxd
 - Winner insights: https://www.youtube.com/watch?si=aKbKcD1_0x8wiQ3x&v=aH1aaS4mtj4&feature=youtu.be
