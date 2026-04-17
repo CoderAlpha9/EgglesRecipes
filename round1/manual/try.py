@@ -87,12 +87,14 @@ def run_monte_carlo(asset, max_limit, price_range, iterations):
     for cfg in best_configurations[:3]:
         print(f" -> BUY {cfg[1]:>5} units @ {cfg[0]} (Forces CP to {cfg[2]}, gets filled for {cfg[3]})")
     print()
+    return best_pnl
 
 
 if __name__ == "__main__":
     # Ensure our random price ranges cover everything around the active order books
-    flax_prices = list(range(20, 40))
-    mushroom_prices = list(range(5, 30))
+    flax_prices = list(range(27, 33))
+    mushroom_prices = list(range(12, 20))
 
-    run_monte_carlo("FLAX", 30000, flax_prices, iterations=500000)
-    run_monte_carlo("MUSHROOM", 43000, mushroom_prices, iterations=500000)
+    p1 = run_monte_carlo("FLAX", 30000, flax_prices, iterations=50000)
+    p2 = run_monte_carlo("MUSHROOM", 43000, mushroom_prices, iterations=50000)
+    print("Net:", p1+p2)
