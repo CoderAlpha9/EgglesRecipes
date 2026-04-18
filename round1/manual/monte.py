@@ -95,6 +95,6 @@ if __name__ == "__main__":
     flax_prices = list(range(27, 33))
     mushroom_prices = list(range(12, 20))
 
-    p1 = run_monte_carlo("FLAX", 30000, flax_prices, iterations=50000)
-    p2 = run_monte_carlo("MUSHROOM", 43000, mushroom_prices, iterations=50000)
+    p1 = run_monte_carlo("FLAX", 30000, flax_prices, iterations=500000)
+    p2 = run_monte_carlo("MUSHROOM", 43000, mushroom_prices, iterations=500000)
     print("Net:", p1+p2)
