@@ -26,7 +26,7 @@ REGIMES = [
     (0.01, 99, 2)   # 5% of people heavily clustered at exactly 100
 ]
 
-SPEED = 90
+SPEED = 11
 
 def get_speed_multiplier(my_speed, regimes):
     """Calculates expected multiplier based on N-regime opponent distribution."""
