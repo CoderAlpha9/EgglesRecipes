@@ -1,0 +1,102 @@
+# sentences = [
+# "Steam train ‘Economic Express’ derails. 
+Cactus Rail Spikes to blame, says governor of Conductor City. 
+The Economic Express, the fastest steam train in our archipelago, went off track this morning. 
+The incident occurred in a wide-open field and caused no material damage. 
+However, the restoration of the track is expected to take significant effort and time. 
+Investigators are currently working to find the root cause of the derailment. 
+'There is no doubt that the Cactus Needle Rail Spikes are to blame,' said the governor of Conductor City. 
+'What once was a beacon of creative innovation of recent decades has now become a hazard.' 
+Experts warn that the railway across the entire archipelago may need to be overhauled, with the Cactus Rail Spikes replaced with sturdy steel rail spikes.",
+
+
+# "Will questionable side effects kill the Quantum Coffee hype? 
+Quantum Coffee promised to be the energy booster of the future, 
+and enthusiasts were quick to jump on the high-tech hot brew, 
+eager for next-level energy. Although users have reported sleepless nights 
+and uncontrolled jitters for some time, doctors have now assessed the long-term health 
+effects of Quantum Coffee. The preliminary report reveals dangerously high levels of 
+Quantum afterwaves, an unusual energy compound that overstimulates the nervous system. 
+Symptoms include extreme restlessness, short-term memory glitches, and, a severe lack 
+of appetite has been reported. Alarmed by the results, authorities are now debating an 
+immediate ban on the once-hyped brew.",
+
+
+# "Saloon Snacks Inc. makes a smooth move to acquire Saucy Sisters & Co. 
+It’s no secret that the hottest sauce in saloons across the West Archipelago 
+right now is the famous Ranch Sauce from Saucy Sisters & Co. Saloon Snacks has
+ been tracking the ongoing success for some time, hoping to be a potential 
+ takeover candidate. After months of negotiation, the Saucy Sisters will be 
+ joining the Saloon Snacks team. Both entities have been tight-lipped on 
+ negotiations as Saloon Snacks CEO said, 'We respect the legacy that Saucy 
+ Sisters & Co. have created and plan to help them scale.' Saucy Sisters, 
+ for their part, made a smooth move with a new hot BBQ Sauce, 'Black Label,' 
+ which has already received a special deal. Going forward, Saucy Sisters & Co. 
+ will sell their stock at a fixed price for the next year, and a Saloon Snacks
+  representative hinted at a special nationwide relaunch of Ranch Sauce to celebrate the occasion.",
+
+
+# "Taxes on solar panels increase overnight. 
+Harnessing the power of the sun has become fully 
+integrated into our daily lives, with solar panels 
+on almost every single house. 'But that doesn’t mean 
+you can keep all that sun for yourself,' as they say. 
+But the 'sunpopuli' are in dismay, as the proposal of a 
+tax hike on new solar panels was fast-tracked this morning. 
+This new tax law triples the cost of installing new solar arrays. 
+The legislation was debated ahead of the vote today, with advocates 
+and opponents alike forecasting a bright and promising development.",
+
+
+# "Next Moonshine Space Expedition on the way. The first-ever Moonshine
+ Space Expedition, carrying one hundred bottles of Moonshine, will launch 
+ next week, Cosmica CEO Mr. Gleam said. The science team at Luna Observatory
+  confirmed the mission: 'Cleaning the surface of the moon with Moonshine is 
+  one of the most astonishing scientific and practical experiments of this decade.'
+   The research team plans to test the effects of Moonshine on lunar regolith, and 
+   Mr. Gleam is pinning his next stock market rally on a high test batch. When asked 
+   for a comment, he said, 'We’re about to show everyone a gravity-defying trick that 
+   will blow everyone’s mind. To the moon!'",
+
+
+# "Whispers of needles in haystacks to ignite ‘Hayfever’ frenzy? Haystacks have
+ always been a niche product for our population. But the hot weather has suddenly 
+ brought people out in droves, with every small town now virtually knee deep in 
+ haystacks and equally frenzied cattle. One value of haystacks, not well known 
+ outside of Hayfield, is the occasional needle. With the ongoing haystack revival, 
+ rumors have circulated that a new batch of needles will soon be found. The medical 
+ community is on high alert for a potential wave of hayfever, with some doctors warning 
+ of a new allergic epidemic. Dr. Gry&Stain’s Sons Medical Center reported only 3 cases 
+ so far. Some say that the discovery of this first needle could be the start of a nation
+  wide 'Hayfever.'",
+
+
+# "Sandstorm blows Red Flag Reserve to smithereens, red flags everywhere! 
+A massive sandstorm recently hit the Red Flag Reserve, sending red flags everywhere, 
+and the most trusted flags were broken by the storm, if the blurry eyewitness accounts 
+are accurate. The wind tore flags from sheds and each other causing chaos across the basin. 
+In the end, only three red flags survived, while the rest were left in ruins. The governor 
+has called for a review of the flag reserve, and the local authorities have declared a flag 
+emergency. The Red Flag Reserve, once the pride of the archipelago, is now a sea of red tatters. 
+The governor has promised to rebuild, but some predict it might take longer than expected.",
+
+
+# "The whole world will be dressed in Black and Yellow! As yearly tradition, fashion 
+experts and trendwatchers are speculating on the next big trend. The Dalton brothers 
+entered the conversation, confidently asserting that black and yellow striped shirts 
+will dominate store racks next season. A bold claim, especially for what is a classic 
+in the fashion scene, but they seem pretty confident about their bets. When asked whether 
+anyone has tested these predictions, they were quick to point to their new Spring/Summer 
+collection of black and yellow striped shirts, available in their online shop, even with 
+a 'HYPEDSTRIPED' discount code.",
+
+
+# "Popularity of VR Quick Draw even higher than experts expected, as quarterly reports show. 
+There’s no way around it. VR Quick Draw has the entire archipelago engaged in harmless duels. 
+Rumor has it some are using the Quick Draw to settle serious disputes. Balta, the game’s developer, 
+announced that the Multiplayer device is played on just released their quarterly report. 
+Monthly Active Players (MAPs) are up significantly, with 800k last quarter to an astonishing 
+4.6 million this time. Meanwhile, the Average Time Spent in Quick Draw Duels has hit an all-time
+ high of 18 hours and 32 minutes. These staggering numbers have everyone wondering: How does 
+ anyone get enough sleep, let alone find time to get any work done?"
+# ]
