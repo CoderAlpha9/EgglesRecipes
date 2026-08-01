@@ -9,7 +9,7 @@ from langchain_core.tools import tool
 from langgraph.prebuilt import create_react_agent
 
 # Set your Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyASH8-1_nlejJYcogGt0BiL55f0a_Esh2o"
+# os.environ["GOOGLE_API_KEY"] = ""
 
 # Initialize Gemini 1.5 Flash
 llm = ChatGoogleGenerativeAI(model="gemini-2.0-flash", temperature=0)
